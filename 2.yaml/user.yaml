@@ -1,0 +1,23 @@
+# String Yaml
+firstName: Thomas
+lastName: Alberto
+
+# Array Yaml
+hobbies:
+  - Reading
+  - Coding
+  - Gaming
+
+# Object Yaml
+address:
+  street: 1234 Elm Street
+  city: Springfield
+  state: IL
+  zip: 62701
+
+# Array Nested object Yaml
+children:
+  - name: John
+    age: 10
+  - name: Jane
+    age: 12
